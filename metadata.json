@@ -1,0 +1,6 @@
+{
+  "name": "AuditPulse AI - Technical SEO & Content Audit Engine",
+  "description": "Comprehensive AI-powered technical SEO auditor, Core Web Vitals analyzer, content gap detector, and prioritized strategic action planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
